@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082079894765",
+    "project_id": "aht-shop",
+    "storage_bucket": "aht-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082079894765:android:4f1304de6541f9231940e4",
+        "android_client_info": {
+          "package_name": "com.example.ahtshopdongho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7JlR9LQM4tvcp-0C4HD4pn-M0t7Jnrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
